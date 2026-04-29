@@ -30,3 +30,6 @@ I am Jannatul Maoya, a frontend web developer specializing in React, Next.js, Ja
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulmaoya-JM)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jannatulmaoya-JM&theme=react-dark)
 
+## 💬 Quote
+
+> "Code is not just written, it is crafted with logic, patience, and creativity."
