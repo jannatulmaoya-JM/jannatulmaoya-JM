@@ -19,3 +19,4 @@ My Skills: <img width="400" height="70" alt="Untitled design (1)" src="https://g
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jannatulmaoya-JM)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulmaoya-JM)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jannatulmaoya-JM&theme=react-dark)
+![Snake animation](https://github.com/jannatulmaoya-JM/jannatulmaoya-JM/blob/output/github-contribution-grid-snake.svg)
