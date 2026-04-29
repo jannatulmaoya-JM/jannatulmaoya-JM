@@ -1,8 +1,15 @@
-### Hi there 👋, I'm Jannatul Maoya 
-#### Frontend Web Developer
-![Frontend Web Developer](https://github.com/jannatulmaoya-JM/jannatulmaoya-JM/blob/main/Developer.png)
+## 👋 Hi, I'm Jannatul Maoya
 
-I am Jannatul Maoya, a frontend web developer specializing in React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, and MongoDB. I focus on building responsive, user-friendly, and interactive web applications with clean, efficient, and scalable code.
+💻 Frontend Web Developer  
+⚛️ Specializing in **React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, MongoDB**
+
+---
+
+### 🚀 About Me
+I am a frontend web developer focused on building **responsive, user-friendly, and interactive web applications** with clean, efficient, and scalable code.
+
+---
+
 
 ## My Skills:
 
