@@ -16,6 +16,11 @@ I am Jannatul Maoya, a frontend web developer specializing in React, Next.js, Ja
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 </p>
 
+## 🎯 Currently Learning
+- Next.js Advanced  
+- Backend Development  
+- API Integration
+  
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
