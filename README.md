@@ -24,6 +24,7 @@ I am Jannatul Maoya, a frontend web developer specializing in React, Next.js, Ja
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jannatulmaoya_JM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jannatul-maoya//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jannatul.maoya.23063)  
 
+![Visitor Count](https://komarev.com/ghpvc/?username=jannatulmaoya-JM)
 ![Stats](https://github-readme-stats.vercel.app/api?username=jannatulmaoya-JM&show_icons=true&count_private=false)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jannatulmaoya-JM)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulmaoya-JM)
