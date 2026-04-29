@@ -4,7 +4,7 @@
 
 I am Jannatul Maoya, a frontend web developer specializing in React, Next.js, JavaScript, HTML, CSS, Tailwind CSS, and MongoDB. I focus on building responsive, user-friendly, and interactive web applications with clean, efficient, and scalable code.
 
-Skills:  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/7bdc5e97-40f5-449e-aa73-1ff65bac1459" />
+Skills:  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/7bdc5e97-40f5-449e-aa73-1ff65bac1459" />
 
 
 - 🌱 I’m currently learning Next.js 
