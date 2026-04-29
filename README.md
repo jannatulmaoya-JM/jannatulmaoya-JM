@@ -20,13 +20,14 @@ I am Jannatul Maoya, a frontend web developer specializing in React, Next.js, Ja
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript (ES6+)" />
 </p>
 
 ## 🎯 Currently Learning
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on Github
 - ⚡ Next.js (Advanced Concepts)  
-- 🧠 Backend Development (Node.js, Express)  
+- 🧠 Backend Development (Node.js)  
 - 🔗 API Integration & REST APIs
 ## 💬 Quote
 
