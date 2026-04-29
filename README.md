@@ -17,14 +17,14 @@ I am Jannatul Maoya, a frontend web developer specializing in React, Next.js, Ja
 </p>
 
 ## 🎯 Currently Learning
-- Next.js Advanced  
-- Backend Development  
-- API Integration
-  
 - 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Web Development 
-- 📫 How to reach me:  jannatulmaoyacmt@gmail.com 
+- 👯 I’m looking to collaborate on Github
+- ⚡ Next.js (Advanced Concepts)  
+- 🧠 Backend Development (Node.js, Express)  
+- 🔗 API Integration & REST APIs
+## 💬 Quote
+
+> "Code is not just written, it is crafted with logic, patience, and creativity."
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jannatulmaoya_JM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jannatul-maoya//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/jannatul.maoya.23063)  
@@ -35,6 +35,8 @@ I am Jannatul Maoya, a frontend web developer specializing in React, Next.js, Ja
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jannatulmaoya-JM)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jannatulmaoya-JM&theme=react-dark)
 
-## 💬 Quote
+## 📫 Contact Me
 
-> "Code is not just written, it is crafted with logic, patience, and creativity."
+- 💬 Ask me about Web Development, React, Next.js  
+- 📧 Email: jannatulmaoyacmt@gmail.com  
+- 🤝 Open to collaboration & freelance work  
